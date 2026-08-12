@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖐️ EdgeSwipe
+# <img src="img/2.png" width="40" alt="EdgeSwipe"> EdgeSwipe
 
 **Лёгкое приложение для MacBook: управляйте яркостью, громкостью и музыкой одним пальцем по краям встроенного трекпада.**
 
@@ -8,10 +8,6 @@
 ![swift](https://img.shields.io/badge/built%20with-Swift-F05138?style=flat-square&logo=swift)
 ![license](https://img.shields.io/badge/dependencies-none-4c1?style=flat-square)
 ![status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-
-[![Выбор рабочих зон](<img width="900" height="370" alt="image" src="https://github.com/user-attachments/assets/473b1313-757d-456c-aec7-c2c7db9d6254" />
-)](<img width="900" height="370" alt="image" src="https://github.com/user-attachments/assets/da84ffeb-65f0-4782-8b9f-67778189bee0" />
-)
 
 </div>
 
@@ -69,6 +65,8 @@
 
 В меню можно выбрать, где будут работать левый и правый края:
 
+![Выбор рабочих зон](img/1.svg)
+
 - **Весь край** — по всей высоте тачпада
 - **Верх** — только верхняя половина
 - **Низ** — только нижняя половина
@@ -93,8 +91,4 @@
 
 EdgeSwipe использует системный фреймворк macOS для чтения касаний встроенного трекпада. Это приложение предназначено для личного использования и не распространяется через Mac App Store. Поддерживаются только встроенный дисплей и встроенный трекпад MacBook; внешние мониторы и Magic Trackpad пока не поддерживаются.
 
-<div align="center">
-
 Made with ❤️ for macOS
-
-</div>
