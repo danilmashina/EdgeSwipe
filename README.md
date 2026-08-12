@@ -11,7 +11,7 @@
 ![license](https://img.shields.io/badge/dependencies-none-4c1?style=flat-square)
 ![status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 
-<img src="img/1.svg" width="600" alt="EdgeSwipe screenshot">
+<img src="img/3.png" width="600" alt="EdgeSwipe screenshot">
 
 </div>
 
