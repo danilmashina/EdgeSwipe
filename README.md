@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="img/2.png" width="40" alt="EdgeSwipe"> EdgeSwipe
+# <img src="img/2.png" width="50" alt="EdgeSwipe"> EdgeSwipe
 
 [![RU](https://img.shields.io/badge/lang-RU-blue?style=for-the-badge)](#русский) [![EN](https://img.shields.io/badge/lang-EN-red?style=for-the-badge)](#english)
 
@@ -28,6 +28,7 @@
 - 🎯 Три режима зон для яркости и громкости: весь край, верхняя или нижняя половина тачпада
 - 🖥️ Работает в фоне; управление и выбор зоны — из меню в строке меню macOS
 - 📦 Без сторонних зависимостей
+<img src="img/4.png" width="600" alt="EdgeSwipe screenshot">
 
 ---
 
