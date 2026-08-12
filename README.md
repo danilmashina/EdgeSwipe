@@ -1,6 +1,9 @@
 <div align="center">
 
-# <img src="img/2.png" width="50" alt="EdgeSwipe"> EdgeSwipe
+<img src="img/2.png" width="80" alt="EdgeSwipe icon">
+</p>
+
+<h1 align="center">EdgeSwipe</h1>
 
 [![RU](https://img.shields.io/badge/lang-RU-blue?style=for-the-badge)](#русский) [![EN](https://img.shields.io/badge/lang-EN-red?style=for-the-badge)](#english)
 
