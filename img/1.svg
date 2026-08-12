@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="370" viewBox="0 0 900 370">
+  <rect width="900" height="370" rx="28" fill="#1f1f21"/>
+  <text x="48" y="66" fill="#f2f2f5" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="29" font-weight="700">Где работают громкость и яркость</text>
+  <text x="48" y="101" fill="#9c9ca3" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="19">Выберите участок боковых краёв тачпада</text>
+  <g transform="translate(48 140)">
+    <g>
+      <rect width="250" height="182" rx="18" fill="#303034" stroke="#6b6b70" stroke-width="2"/>
+      <text x="125" y="35" text-anchor="middle" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600">Весь край</text>
+      <rect x="76" y="54" width="98" height="104" rx="13" fill="#17171a" stroke="#8d8d94" stroke-width="2"/>
+      <path d="M76 68q0-14 14-14h8v104h-8q-14 0-14-14z" fill="#31d4ff"/>
+      <path d="M174 68q0-14-14-14h-8v104h8q14 0 14-14z" fill="#b853ff"/>
+      <path d="M125 67v78" stroke="#6b6b72" stroke-width="1" stroke-dasharray="4 4"/>
+    </g>
+    <g transform="translate(276)">
+      <rect width="250" height="182" rx="18" fill="#303034" stroke="#6b6b70" stroke-width="2"/>
+      <text x="125" y="35" text-anchor="middle" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600">Верх</text>
+      <rect x="76" y="54" width="98" height="104" rx="13" fill="#17171a" stroke="#8d8d94" stroke-width="2"/>
+      <path d="M76 68q0-14 14-14h8v52H76z" fill="#31d4ff"/>
+      <path d="M174 68q0-14-14-14h-8v52h22z" fill="#b853ff"/>
+      <path d="M76 106h98" stroke="#8d8d94" stroke-width="1.5"/>
+    </g>
+    <g transform="translate(552)">
+      <rect width="250" height="182" rx="18" fill="#303034" stroke="#6b6b70" stroke-width="2"/>
+      <text x="125" y="35" text-anchor="middle" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="600">Низ</text>
+      <rect x="76" y="54" width="98" height="104" rx="13" fill="#17171a" stroke="#8d8d94" stroke-width="2"/>
+      <path d="M76 106h22v52h-8q-14 0-14-14z" fill="#31d4ff"/>
+      <path d="M174 106h-22v52h8q14 0 14-14z" fill="#b853ff"/>
+      <path d="M76 106h98" stroke="#8d8d94" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
