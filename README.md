@@ -29,6 +29,9 @@
 - ⬆️ Свайп вверх увеличивает значение, вниз — уменьшает
 - 🎵 **Нижний край**: слева направо — следующий трек, справа налево — предыдущий
 - 🎯 Три режима зон для яркости и громкости: весь край, верхняя или нижняя половина тачпада
+- ✋ **Касание тремя пальцами** — пауза/продолжение воспроизведения
+- 🧭 Для трёхпальцевого касания можно выбрать одну из четырёх зон тачпада: верх слева, верх справа, низ слева или низ справа
+- 🖼️ Наглядные иконки в меню показывают активную область тачпада
 - 🖥️ Работает в фоне; управление и выбор зоны — из меню в строке меню macOS
 - 📦 Без сторонних зависимостей
 <img src="img/4.png" width="600" alt="EdgeSwipe screenshot">
@@ -58,10 +61,26 @@
 | ⬇️ Вниз по правому краю | Уменьшить громкость |
 | ➡️ Нижний край слева направо | Следующий трек |
 | ⬅️ Нижний край справа налево | Предыдущий трек |
+| ✋ Касание тремя пальцами | Пауза / продолжение воспроизведения |
 
 ## 📐 Рабочая область краёв
 
 В меню можно выбрать, где будут работать левый и правый края: **Весь край**, **Верх** (только верхняя половина) или **Низ** (только нижняя половина).
+
+## ✋ Зона для касания тремя пальцами
+
+Для жеста паузы/продолжения тремя пальцами можно выбрать одну из четырёх зон тачпада:
+
+- Верхний левый угол
+- Верхний правый угол
+- Нижний левый угол
+- Нижний правый угол
+
+Новые наглядные иконки в меню показывают, какая область тачпада активна в данный момент.
+
+<img src="img/5.png" width="600" alt="Трёхпальцевое касание для паузы и продолжения">
+
+---
 
 ## 🛠️ Сборка из исходников
 
@@ -88,6 +107,9 @@ EdgeSwipe использует системный фреймворк macOS дл�
 - ⬆️ Swipe up to increase, down to decrease
 - 🎵 **Bottom edge**: left-to-right — next track, right-to-left — previous track
 - 🎯 Three zone modes for brightness/volume: full edge, top half, or bottom half of trackpad
+- ✋ **Three-finger tap** — play/pause toggle
+- 🧭 For the three-finger tap, choose one of four trackpad zones: top-left, top-right, bottom-left, or bottom-right
+- 🖼️ New clear menu icons show the active trackpad zone
 - 🖥️ Runs in background; control and zone selection via macOS menu bar
 - 📦 No third-party dependencies
 
@@ -116,10 +138,22 @@ EdgeSwipe использует системный фреймворк macOS дл�
 | ⬇️ Swipe down on right edge | Decrease volume |
 | ➡️ Bottom edge, left to right | Next track |
 | ⬅️ Bottom edge, right to left | Previous track |
+| ✋ Three-finger tap | Play / pause toggle |
 
 ## 📐 Edge Working Area
 
 From the menu you can choose where the left and right edges are active: **Full Edge**, **Top Half**, or **Bottom Half**.
+
+## ✋ Three-Finger Tap Zone
+
+For the play/pause three-finger tap gesture, choose one of four trackpad zones:
+
+- Top-left
+- Top-right
+- Bottom-left
+- Bottom-right
+
+New clear menu icons show which trackpad zone is currently active.
 
 ## 🛠️ Building from Source
 
